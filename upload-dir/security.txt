@@ -1,0 +1,12 @@
+La sécurité est un l'une des choses les plus interessantes auxquelles il faut donner beaucoup d'importance dans un organisme qui produit soit des biens ou de services.
+
+Qui dit sécuriser un système, dit maintenir l'information de ce système loin de toute sorte de faile ou de vulnirabilité, ainsi loin d'etre piraté par un Hacker.
+
+si quelqu'un a pu trouver une vulnirabilité dans le systeme de cette multinationale, il va donc l'éxploiter pour accéder à toutes ses données. 
+Et on sait tous que la donnée est une chose précieuse qu'on ne partage pas avec n'importe car c'est un moyen qui aide à pirater un systeme informatique.
+Et si jamais quelqu'un a réussit de trouver une faille dans notre systeme informatique, cette multinationale va etre détruite!!!
+
+Ainsi, il faut donner une grande importance à ce sujet de sécurité pour éviter tout type de danger prévu ou imprévu.
+
+Et pour ce faire, il faut faire appel à des experts dans le domaine de la sécurité informatique car ils sont capables de trouver une solution adéquate selon les circonstaces et l'infrastructure de l'organisme.
+Ces profils là peuvent penser à des solutions genre les antivirus ou les firewalls ou à des protocoles de surveillances ou autres qui font l'analyse et le traitement des requetes HTTP qu'ils reçoivent avant de passer au serveur de cette multinationale. 
